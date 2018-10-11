@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 more meaningless text
 THis is from the remote copy
 <<<<<<< HEAD
@@ -5,3 +6,6 @@ THis is from the remote copy
 =======
 Alas - from remote
 >>>>>>> c4e0998b358b03086399136224b3091b5bd6595b
+=======
+kjh
+>>>>>>> 076f647c2828695795b39c0d1f228c9797556f00
